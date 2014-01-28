@@ -1,15 +1,4 @@
 {
     "name": "qing/qing_test",
-    "description": "描述",
-    "homepage": "http://github.com/Seldaek/monolog",
-    "authors": [
-        {
-            "name": "test",
-            "email": "test@seld.be",
-            "homepage": "www.fewphp.com"
-        }
-    ],
-    "require": {
-        "php": ">=5.3.0"
-    }
+    "description": "描述"
 }
