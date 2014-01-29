@@ -1,0 +1,7 @@
+{
+    "name": "qing/qing_test",
+    "description": "描述",
+    "autoload": {
+        "psr-0": {"framework": "src/"}
+    }
+}
